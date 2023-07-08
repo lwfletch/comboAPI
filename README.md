@@ -22,7 +22,7 @@ Depending on your preferred package manager, follow the instructions below to de
 
 ## Test your service
 Pass a query param ex: ?currency=eur
-[deployed api gateway and lambda)(https://q0u18nysd2.execute-api.us-east-1.amazonaws.com/gameDeals?currency=jpy)
+[deployed api gateway and lambda](https://q0u18nysd2.execute-api.us-east-1.amazonaws.com/gameDeals?currency=jpy)
 
 
 ### Locally
